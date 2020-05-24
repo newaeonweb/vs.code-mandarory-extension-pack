@@ -1,0 +1,54 @@
+{
+  "name": "vscode-mandarory-extension-pack",
+  "displayName": "Front-end Mandatory Extension pack",
+  "version": "2.0.0",
+  "description": "A slim package with mandatory vs.code extensions for front-end developer of any language",
+  "publisher": "barbadev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newaeonweb/vs.code-mandarory-extension-pack.git"
+  },
+  "engines": {
+    "vscode": "^1.26.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "vs.code",
+    "extensions",
+    "produtivity",
+    "package",
+    "mandatory",
+    "extensions",
+    "linters",
+    "formatters",
+    "helpers"
+  ],
+  "extensionPack": [
+    "dbaeumer.vscode-eslint",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "shinnn.stylelint",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "CoenraadS.bracket-pair-colorizer",
+    "mikestead.dotenv",
+    "EditorConfig.EditorConfig",
+    "christian-kohler.path-intellisense",
+    "Zignd.html-css-class-completion",
+    "msjsdiag.debugger-for-chrome",
+    "donjayamanne.git-extension-pack",
+    "jasonnutter.github-pr"
+  ],
+  "author": "barbadev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/newaeonweb/vs.code-mandarory-extension-pack/issues"
+  },
+  "homepage": "https://github.com/newaeonweb/vs.code-mandarory-extension-pack#readme"
+}
