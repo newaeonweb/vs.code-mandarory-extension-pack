@@ -28,6 +28,8 @@ The extension package apply to any framework (Vanilla JS, Vue, Angular, React, e
 
 [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer): A customizable extension for colorizing matching brackets.
 
+[Turbo Console](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log): Make debugging much easier by automating the operation of writing meaningful log message.
+
 ---
 
 ### Dot `.env` files and EditorConfig

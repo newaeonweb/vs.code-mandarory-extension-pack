@@ -44,7 +44,8 @@
     "Zignd.html-css-class-completion",
     "msjsdiag.debugger-for-chrome",
     "donjayamanne.git-extension-pack",
-    "jasonnutter.github-pr"
+    "jasonnutter.github-pr",
+    "ChakrounAnas.turbo-console-log"
   ],
   "author": "barbadev",
   "license": "MIT",
