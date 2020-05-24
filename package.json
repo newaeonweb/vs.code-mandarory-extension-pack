@@ -1,7 +1,7 @@
 {
   "name": "vscode-mandarory-extension-pack",
   "displayName": "Front-end Mandatory Extension pack",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "A slim package with mandatory vs.code extensions for front-end developer of any language",
   "publisher": "barbadev",
   "icon": "images/logo.png",
